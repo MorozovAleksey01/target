@@ -1,5 +1,5 @@
-```css
-#NeuroStartUp
+
+# NeuroStartUp
 
 ![](./logo.png)
 
